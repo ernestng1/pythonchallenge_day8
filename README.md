@@ -2,7 +2,7 @@
 <p>For the Day 8 challenge, I created a Caesar Cipher to decode and encode phrases, mimicking what was used in war times to send secret codes! This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
   <li>function, positional arguments vs keyword arguments</li>
-  <li>condiitonal statements</li>
+  <li>conditional statements</li>
   <li>input function</li>
 </ul>
 
